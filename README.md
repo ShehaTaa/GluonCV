@@ -1,6 +1,6 @@
 # aws GluonCV
 
-# GluonCV
+   - **GluonCV**
         - provides implementations of the state-of-the-art (SOTA) deep learning models in computer vision.
         - It is designed for engineers, researchers, and students to fast prototype products and research ideas based on these models.
         - This toolkit offers four main features
@@ -9,12 +9,11 @@
           3. Carefully designed APIs that greatly reduce the implementation complexity
           4. Community supports
 
-# Demo
+   - **Demo**
+       <div align="center">
+        <img src="Data/short_demo.gif">
+       </div>
 
-<div align="center">
-    <img src="Data/short_demo.gif">
-</div>
-
-<br>
+       <br>
 
 Check the HD video at [Youtube](https://www.youtube.com/watch?v=nfpouVAzXt0) or [Bilibili](https://www.bilibili.com/video/av55619231).
